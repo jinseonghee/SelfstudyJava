@@ -7,6 +7,6 @@ public class CalculatroExample {
         double result1 = myCalc.areaRectangle(10);
         double result2 = myCalc.areaRectangle(10,20);
         System.out.println("정사각형의 넓이 : " + result1);
-        System.out.println("직사각형의 넓이 : " + result2);
+        System.out.println("직 사각형의 넓이 : " + result2);
     }
 }
